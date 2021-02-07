@@ -1,12 +1,12 @@
 {
-	"name": "malu/Encrypted-transmission-php",
+	"name": "malu/php-encrypted-transmission",
 	"type": "Encrypted",
 	"description": "PHP Encrypted transmission",
 	"keywords": ["Encrypted", "transmission"],
 	"homepage": "https://malu.me",
 	"license": "MIT",
 	"support": {
-		"source": "https://github.com/pingmalu/Encrypted-transmission-php"
+		"source": "https://github.com/pingmalu/php-ncrypted-transmission"
 	},
 	"authors": [
 		{"name": "Ma lu", "email": "malu@malu.me"}
