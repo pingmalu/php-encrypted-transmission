@@ -1,0 +1,23 @@
+{
+	"name": "malu/Encrypted-transmission-php",
+	"type": "Encrypted",
+	"description": "PHP Encrypted transmission",
+	"keywords": ["Encrypted", "transmission"],
+	"homepage": "https://malu.me",
+	"license": "MIT",
+	"support": {
+		"source": "https://github.com/pingmalu/Encrypted-transmission-php"
+	},
+	"authors": [
+		{"name": "Ma lu", "email": "malu@malu.me"}
+	],
+	"require": {
+		"php": ">=5.4",
+		"ext-pdo": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"Malu\\Encrypted\\": "/src"
+		}
+	}
+}
