@@ -23,7 +23,7 @@ $ composer update
 require 'vendor/autoload.php';
 
 // Using Medoo namespace
-use Malu\Encrypted;
+use Malu\Encrypted\Encrypted;
 
 $data = ["hello","malu","bbq"];
 
