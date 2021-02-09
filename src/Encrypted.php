@@ -141,7 +141,6 @@ class Encrypted
             var_dump((ord($data[$i]) + ord($char[$i])) % 256);
             $str .= chr((ord($data[$i]) + ord($char[$i])) % 256);
         }
-        var_dump($str);
         return base64_encode($str); // 用基础的64个字符替换
     }
 
