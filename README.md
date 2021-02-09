@@ -10,7 +10,7 @@ PHP 5.4+ and PDO extension installed
 
 Add to composer.json configuration file.
 ```
-$ composer require malu/Encrypted
+$ composer require malu/php-encrypted-transmission
 ```
 
 And update the composer
